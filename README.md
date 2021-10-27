@@ -1,2 +1,2 @@
-# planefiguresinR
-plane figures in language  R
+# Plane igures in R 🐲
+## **Plane figures in language  R**
